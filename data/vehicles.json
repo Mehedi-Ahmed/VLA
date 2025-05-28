@@ -1,0 +1,23 @@
+[
+    {
+        "name": "GTR",
+        "type": "Hybrid",
+        "price": "260000",
+        "image": "https:\/\/www.carscoops.com\/wp-content\/uploads\/2024\/08\/2027-Nissan-GT-R-Gold-Carscoops-2-scaled.jpg",
+        "id": 1
+    },
+    {
+        "name": "Toyota",
+        "type": "SUV",
+        "price": "25000",
+        "image": "https:\/\/news.dupontregistry.com\/wp-content\/uploads\/2024\/10\/Supra-Main.jpg",
+        "id": 2
+    },
+    {
+        "name": "BMW",
+        "type": "Electirc",
+        "price": "25892500",
+        "image": "https:\/\/di-uploads-pod4.dealerinspire.com\/rallyebmw\/uploads\/2019\/05\/2019-BMW-i3-MLP-Hero.png",
+        "id": 3
+    }
+]
